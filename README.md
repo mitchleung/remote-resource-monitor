@@ -6,10 +6,10 @@ This is a simple vue project to display CPU and memory usage nicer on your other
 
 Using [localhost](http://localhost:61208) for the Glances API will only work on the same machine. To this webapp working from other devices, you need to change to your machine's IP address, e.g. 192.168.1.7, and then you can browse to http://192.168.1.7:8080 from your devices whether you use "npm run serve" or "http-server dist"
 
-##Portrait mode
+## Portrait mode
 ![Portrait mode](remote-resource-monitor-portrait.jpeg)
 
-##Landscape mode
+## Landscape mode
 ![Landscape mode](remote-resource-monitor-landscape.jpeg)
 
 ## Project setup
