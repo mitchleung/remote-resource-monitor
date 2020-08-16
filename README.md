@@ -4,6 +4,9 @@ This is a simple vue project to display CPU and memory usage nicer on your other
 
 ** Need to install [Glances](https://nicolargo.github.io/glances) and have it running as web server mode "glances -w"
 
+![Portrait mode](remote-resource-monitor-portrait.jpeg)
+
+![Landscape mode](remote-resource-monitor-landscape.jpeg)
 
 ## Project setup
 ```
