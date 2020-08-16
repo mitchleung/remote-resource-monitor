@@ -31,7 +31,7 @@ See [Configuration Reference](https://cli.vuejs.org/config/).
 
 ### Run from dist folder
 ```
-You can also build the project once and run directly from "dist" folder with [http-server] (https://www.npmjs.com/package/http-server)
+You can also build the project once and run directly from "dist" folder with [http-server](https://www.npmjs.com/package/http-server)
 
 
 ### License
